@@ -1,6 +1,5 @@
 # Riemann Surface Visualizer
 Visualization of multivalued Riemann surfaces for w = z^(1/order)
-
 This repository provides a Python-based 3D visualizer for the multi-sheet Riemann surface of the complex root function w = z^(1/order).
 The script renders each branch as a helical sheet in cylindrical coordinates, with automatic branch-cut separation.
 It is intended as a research and educational tool for exploring analytic continuation, multi-sheet structures, and root-function topology in complex analysis.
@@ -93,5 +92,7 @@ https://github.com/KoheiAbeLab/riemann-surface-visualizer/releases
 
 ## Contact
 Kohei Abe
+
 ORCID: https://orcid.org/0009-0001-1126-3282
+
 GitHub: https://github.com/KoheiAbeLab
