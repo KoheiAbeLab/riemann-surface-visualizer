@@ -40,9 +40,7 @@ python riemann_surface_visualizer.py
 ## Usage
 Run the script:
 python riemann_surface_visualizer.py
-
 To change the branching order, modify the call to plot_riemann() inside the script:
-
 plot_riemann(order=4)
 
 ## Controls inside the Matplotlib 3D window:
